@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+    <head>
+         <title>Exercico 03</title>
+         <h1>Novo Cadastro</h1>
+    </head>
+
+    <body>
+        <form>
+            <label for="nome completo">Nome Completo:</label>
+                <input type="text" id="nome completo" name="nome compelto"><br>
+                <label for="cpf">Endreço:</label>
+                <input type="text" id="endreço" name="endreço"
+                <label for="cidade">Cidade:</label>
+                <input type="text" id="cidade" name="cidade"><br>
+                <label for="estado">Estado:</label>
