@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+    <title>Atividade 2</title>
+</head>
+<body>
+    <h1>Cadastro do Usuário</h1>
+    <ol>
+        <li>Exercicio de Reprodução da Página do Web</li>
+        <li>Idenifique todos os elementos HTML utilizados</li>
+        <li>Idenifique todos os elementos CSS utilizados</li>
+        <li>Em seguida,reproduza de maneira de deixar igual ao exemplo analisado</li>
+        <li>Caso tenha o input select, crie 3 options para ele</li>
+    <h1>Cadastro do Produto</h1>
+    <ol>
+    </form>
+         <fieldset>
+       <legend>Informações do Produto</legend>
+           <table border="fd2">
+                 <tr>
+                    <label for="nome">Nome:</label>
+                    <input type="nome" id="nome" name="nome"><br>
+                </tr>
+                <tr>
+                    <label for="preço">Preço;</label>
+                    <input type="preço" id="preço" name="preço"><br> 
+                </tr>
+                <tr>
+                    <label for="descrição">Descrição:</label>
+                    <input type="descrição" id="descrição" name="descrição"><br>
+                </tr>
+                <tr>
+                    <label for="categoria">Categoria:</label>
+                    <input type="categoria" id="categoria" name="categoria"><br>    <select name="selecioneumacategoria" id="Categoria"></select>
+                </tr>
+           </table>    
+
+                       
+                           
+                       </select>
+                   </fieldset>
+        
+  
+</html>
